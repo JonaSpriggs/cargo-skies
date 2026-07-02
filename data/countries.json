@@ -1,0 +1,4116 @@
+{
+ "ZWE": {
+  "id": "ZWE",
+  "cca2": "ZW",
+  "name": "Zimbabwe",
+  "continent": "Africa",
+  "capital": {
+   "name": "Harare",
+   "lat": -17.815844,
+   "lon": 31.042764
+  },
+  "centroid": {
+   "lat": -19.024049895833333,
+   "lon": 29.91269739583333
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "ZMB": {
+  "id": "ZMB",
+  "cca2": "ZM",
+  "name": "Zambia",
+  "continent": "Africa",
+  "capital": {
+   "name": "Lusaka",
+   "lat": -15.414698,
+   "lon": 28.281382
+  },
+  "centroid": {
+   "lat": -12.69515985057471,
+   "lon": 28.834600620689674
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "YEM": {
+  "id": "YEM",
+  "cca2": "YE",
+  "name": "Yemen",
+  "continent": "Asia",
+  "capital": {
+   "name": "Sana'a",
+   "lat": 15.356679,
+   "lon": 44.204648
+  },
+  "centroid": {
+   "lat": 15.125144836065573,
+   "lon": 46.823059704918016
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "VNM": {
+  "id": "VNM",
+  "cca2": "VN",
+  "name": "Vietnam",
+  "continent": "Asia",
+  "capital": {
+   "name": "Hanoi",
+   "lat": 21.035273,
+   "lon": 105.848068
+  },
+  "centroid": {
+   "lat": 15.743956532894737,
+   "lon": 106.25075427631583
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "VEN": {
+  "id": "VEN",
+  "cca2": "VE",
+  "name": "Venezuela",
+  "continent": "South America",
+  "capital": {
+   "name": "Caracas",
+   "lat": 10.502944,
+   "lon": -66.918983
+  },
+  "centroid": {
+   "lat": 8.011542825301207,
+   "lon": -65.95986677108434
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "VAT": {
+  "id": "VAT",
+  "cca2": "VA",
+  "name": "Vatican",
+  "continent": "Europe",
+  "capital": {
+   "name": "Vatican City",
+   "lat": 41.903282,
+   "lon": 12.453387
+  },
+  "centroid": {
+   "lat": 41.901773999999996,
+   "lon": 12.435025999999999
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "VUT": {
+  "id": "VUT",
+  "cca2": "VU",
+  "name": "Vanuatu",
+  "continent": "Oceania",
+  "capital": {
+   "name": "Port Vila",
+   "lat": -17.73335,
+   "lon": 168.316641
+  },
+  "centroid": {
+   "lat": -16.29946590909091,
+   "lon": 167.89368495454548
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "UZB": {
+  "id": "UZB",
+  "cca2": "UZ",
+  "name": "Uzbekistan",
+  "continent": "Asia",
+  "capital": {
+   "name": "Tashkent",
+   "lat": 41.303828,
+   "lon": 69.268823
+  },
+  "centroid": {
+   "lat": 40.87132990624999,
+   "lon": 66.51386870312504
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "URY": {
+  "id": "URY",
+  "cca2": "UY",
+  "name": "Uruguay",
+  "continent": "South America",
+  "capital": {
+   "name": "Montevideo",
+   "lat": -34.905376,
+   "lon": -56.186823
+  },
+  "centroid": {
+   "lat": -32.47555888888889,
+   "lon": -56.20517852777779
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "FSM": {
+  "id": "FSM",
+  "cca2": "FM",
+  "name": "Micronesia",
+  "continent": "Oceania",
+  "capital": {
+   "name": "Palikir",
+   "lat": 6.916644,
+   "lon": 158.149974
+  },
+  "centroid": {
+   "lat": 6.87771,
+   "lon": 158.23190925
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "MHL": {
+  "id": "MHL",
+  "cca2": "MH",
+  "name": "Marshall Is.",
+  "continent": "Oceania",
+  "capital": {
+   "name": "Majuro",
+   "lat": 7.103004,
+   "lon": 171.38
+  },
+  "centroid": {
+   "lat": 7.11850575,
+   "lon": 171.19169925000003
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "MNP": {
+  "id": "MNP",
+  "cca2": "MP",
+  "name": "N. Mariana Is.",
+  "continent": "Oceania",
+  "capital": {
+   "name": "Saipan",
+   "lat": 15.184728999999999,
+   "lon": 145.74282225000002
+  },
+  "centroid": {
+   "lat": 15.184728999999999,
+   "lon": 145.74282225000002
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "VIR": {
+  "id": "VIR",
+  "cca2": "VI",
+  "name": "U.S. Virgin Is.",
+  "continent": "North America",
+  "capital": {
+   "name": "Charlotte Amalie",
+   "lat": 17.7546265,
+   "lon": -64.7799805
+  },
+  "centroid": {
+   "lat": 17.7546265,
+   "lon": -64.7799805
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "GUM": {
+  "id": "GUM",
+  "cca2": "GU",
+  "name": "Guam",
+  "continent": "Oceania",
+  "capital": {
+   "name": "Hagåtña",
+   "lat": 13.437285,
+   "lon": 144.77146480000002
+  },
+  "centroid": {
+   "lat": 13.437285,
+   "lon": 144.77146480000002
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "ASM": {
+  "id": "ASM",
+  "cca2": "AS",
+  "name": "American Samoa",
+  "continent": "Oceania",
+  "capital": {
+   "name": "Pago Pago",
+   "lat": -14.310025999999999,
+   "lon": -170.70496433333335
+  },
+  "centroid": {
+   "lat": -14.310025999999999,
+   "lon": -170.70496433333335
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "PRI": {
+  "id": "PRI",
+  "cca2": "PR",
+  "name": "Puerto Rico",
+  "continent": "North America",
+  "capital": {
+   "name": "San Juan",
+   "lat": 18.2656555,
+   "lon": -66.517737
+  },
+  "centroid": {
+   "lat": 18.2656555,
+   "lon": -66.517737
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "USA": {
+  "id": "USA",
+  "cca2": "US",
+  "name": "United States of America",
+  "continent": "North America",
+  "capital": {
+   "name": "Washington D.C.",
+   "lat": 38.901495,
+   "lon": -77.011364
+  },
+  "centroid": {
+   "lat": 49.26602696650128,
+   "lon": -123.28641342307692
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "SGS": {
+  "id": "SGS",
+  "cca2": "GS",
+  "name": "S. Geo. and the Is.",
+  "continent": "Seven seas (open ocean)",
+  "capital": {
+   "name": "King Edward Point",
+   "lat": -54.32795542105263,
+   "lon": -36.74043489473685
+  },
+  "centroid": {
+   "lat": -54.32795542105263,
+   "lon": -36.74043489473685
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "IOT": {
+  "id": "IOT",
+  "cca2": "IO",
+  "name": "Br. Indian Ocean Ter.",
+  "continent": "Seven seas (open ocean)",
+  "capital": {
+   "name": "Diego Garcia",
+   "lat": -7.338457,
+   "lon": 72.43273439999999
+  },
+  "centroid": {
+   "lat": -7.338457,
+   "lon": 72.43273439999999
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "SHN": {
+  "id": "SHN",
+  "cca2": "SH",
+  "name": "Saint Helena",
+  "continent": "Seven seas (open ocean)",
+  "capital": {
+   "name": "Jamestown",
+   "lat": -15.96930333333333,
+   "lon": -5.727506666666667
+  },
+  "centroid": {
+   "lat": -15.96930333333333,
+   "lon": -5.727506666666667
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "PCN": {
+  "id": "PCN",
+  "cca2": "PN",
+  "name": "Pitcairn Is.",
+  "continent": "Oceania",
+  "capital": {
+   "name": "Adamstown",
+   "lat": -24.363769333333334,
+   "lon": -128.32080066666666
+  },
+  "centroid": {
+   "lat": -24.363769333333334,
+   "lon": -128.32080066666666
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "AIA": {
+  "id": "AIA",
+  "cca2": "AI",
+  "name": "Anguilla",
+  "continent": "North America",
+  "capital": {
+   "name": "The Valley",
+   "lat": 18.220963666666666,
+   "lon": -63.062418666666666
+  },
+  "centroid": {
+   "lat": 18.220963666666666,
+   "lon": -63.062418666666666
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "FLK": {
+  "id": "FLK",
+  "cca2": "FK",
+  "name": "Falkland Is.",
+  "continent": "South America",
+  "capital": {
+   "name": "Stanley",
+   "lat": -51.70951259090909,
+   "lon": -59.4956699318182
+  },
+  "centroid": {
+   "lat": -51.70951259090909,
+   "lon": -59.4956699318182
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "CYM": {
+  "id": "CYM",
+  "cca2": "KY",
+  "name": "Cayman Is.",
+  "continent": "North America",
+  "capital": {
+   "name": "George Town",
+   "lat": 19.326806750000003,
+   "lon": -81.32513424999999
+  },
+  "centroid": {
+   "lat": 19.326806750000003,
+   "lon": -81.32513424999999
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "BMU": {
+  "id": "BMU",
+  "cca2": "BM",
+  "name": "Bermuda",
+  "continent": "North America",
+  "capital": {
+   "name": "Hamilton",
+   "lat": 32.31642266666666,
+   "lon": -64.75380866666667
+  },
+  "centroid": {
+   "lat": 32.31642266666666,
+   "lon": -64.75380866666667
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "VGB": {
+  "id": "VGB",
+  "cca2": "VG",
+  "name": "British Virgin Is.",
+  "continent": "North America",
+  "capital": {
+   "name": "Road Town",
+   "lat": 18.498388666666667,
+   "lon": -64.38198233333333
+  },
+  "centroid": {
+   "lat": 18.498388666666667,
+   "lon": -64.38198233333333
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "TCA": {
+  "id": "TCA",
+  "cca2": "TC",
+  "name": "Turks and Caicos Is.",
+  "continent": "North America",
+  "capital": {
+   "name": "Cockburn Town",
+   "lat": 21.814046,
+   "lon": -71.72581366666667
+  },
+  "centroid": {
+   "lat": 21.814046,
+   "lon": -71.72581366666667
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "MSR": {
+  "id": "MSR",
+  "cca2": "MS",
+  "name": "Montserrat",
+  "continent": "North America",
+  "capital": {
+   "name": "Plymouth",
+   "lat": 16.748079666666666,
+   "lon": -62.187142
+  },
+  "centroid": {
+   "lat": 16.748079666666666,
+   "lon": -62.187142
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "JEY": {
+  "id": "JEY",
+  "cca2": "JE",
+  "name": "Jersey",
+  "continent": "Europe",
+  "capital": {
+   "name": "Saint Helier",
+   "lat": 49.21369625,
+   "lon": -2.121228
+  },
+  "centroid": {
+   "lat": 49.21369625,
+   "lon": -2.121228
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "GGY": {
+  "id": "GGY",
+  "cca2": "GG",
+  "name": "Guernsey",
+  "continent": "Europe",
+  "capital": {
+   "name": "St. Peter Port",
+   "lat": 49.463818333333336,
+   "lon": -2.5686036666666667
+  },
+  "centroid": {
+   "lat": 49.463818333333336,
+   "lon": -2.5686036666666667
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "IMN": {
+  "id": "IMN",
+  "cca2": "IM",
+  "name": "Isle of Man",
+  "continent": "Europe",
+  "capital": {
+   "name": "Douglas",
+   "lat": 54.203043666666666,
+   "lon": -4.545516
+  },
+  "centroid": {
+   "lat": 54.203043666666666,
+   "lon": -4.545516
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "GBR": {
+  "id": "GBR",
+  "cca2": "GB",
+  "name": "United Kingdom",
+  "continent": "Europe",
+  "capital": {
+   "name": "London",
+   "lat": 51.501941,
+   "lon": -0.118668
+  },
+  "centroid": {
+   "lat": 55.35471030877191,
+   "lon": -3.9981963052631566
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "ARE": {
+  "id": "ARE",
+  "cca2": "AE",
+  "name": "United Arab Emirates",
+  "continent": "Asia",
+  "capital": {
+   "name": "Abu Dhabi",
+   "lat": 24.466684,
+   "lon": 54.366593
+  },
+  "centroid": {
+   "lat": 24.54821857575757,
+   "lon": 54.7184866060606
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "UKR": {
+  "id": "UKR",
+  "cca2": "UA",
+  "name": "Ukraine",
+  "continent": "Europe",
+  "capital": {
+   "name": "Kyiv",
+   "lat": 50.435313,
+   "lon": 30.514682
+  },
+  "centroid": {
+   "lat": 48.410454312500015,
+   "lon": 31.426327460227274
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "UGA": {
+  "id": "UGA",
+  "cca2": "UG",
+  "name": "Uganda",
+  "continent": "Africa",
+  "capital": {
+   "name": "Kampala",
+   "lat": 0.318605,
+   "lon": 32.581378
+  },
+  "centroid": {
+   "lat": 1.9348690238095239,
+   "lon": 31.99175271428572
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "TKM": {
+  "id": "TKM",
+  "cca2": "TM",
+  "name": "Turkmenistan",
+  "continent": "Asia",
+  "capital": {
+   "name": "Ashgabat",
+   "lat": 37.949995,
+   "lon": 58.383299
+  },
+  "centroid": {
+   "lat": 39.50372361111113,
+   "lon": 58.32062812962966
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "TUR": {
+  "id": "TUR",
+  "cca2": "TR",
+  "name": "Turkey",
+  "continent": "Asia",
+  "capital": {
+   "name": "Ankara",
+   "lat": 39.929184,
+   "lon": 32.862446
+  },
+  "centroid": {
+   "lat": 39.16570856470589,
+   "lon": 33.53192039999999
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "TUN": {
+  "id": "TUN",
+  "cca2": "TN",
+  "name": "Tunisia",
+  "continent": "Africa",
+  "capital": {
+   "name": "Tunis",
+   "lat": 36.802778,
+   "lon": 10.179678
+  },
+  "centroid": {
+   "lat": 34.44924653448276,
+   "lon": 10.05466051724138
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "TTO": {
+  "id": "TTO",
+  "cca2": "TT",
+  "name": "Trinidad and Tobago",
+  "continent": "North America",
+  "capital": {
+   "name": "Port of Spain",
+   "lat": 10.651997,
+   "lon": -61.517031
+  },
+  "centroid": {
+   "lat": 10.718042000000002,
+   "lon": -61.10515133333333
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "TON": {
+  "id": "TON",
+  "cca2": "TO",
+  "name": "Tonga",
+  "continent": "Oceania",
+  "capital": {
+   "name": "Nuku'alofa",
+   "lat": -21.138512,
+   "lon": -175.220564
+  },
+  "centroid": {
+   "lat": -20.031184888888887,
+   "lon": -174.67323688888888
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "TGO": {
+  "id": "TGO",
+  "cca2": "TG",
+  "name": "Togo",
+  "continent": "Africa",
+  "capital": {
+   "name": "Lomé",
+   "lat": 6.133883,
+   "lon": 1.220811
+  },
+  "centroid": {
+   "lat": 8.6866805625,
+   "lon": 0.723887625
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "TLS": {
+  "id": "TLS",
+  "cca2": "TL",
+  "name": "Timor-Leste",
+  "continent": "Asia",
+  "capital": {
+   "name": "Dili",
+   "lat": -8.559388,
+   "lon": 125.579456
+  },
+  "centroid": {
+   "lat": -8.980061,
+   "lon": 125.36340758823532
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "THA": {
+  "id": "THA",
+  "cca2": "TH",
+  "name": "Thailand",
+  "continent": "Asia",
+  "capital": {
+   "name": "Bangkok",
+   "lat": 13.751945,
+   "lon": 100.514699
+  },
+  "centroid": {
+   "lat": 12.839729721518992,
+   "lon": 100.57519842405061
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "TZA": {
+  "id": "TZA",
+  "cca2": "TZ",
+  "name": "Tanzania",
+  "continent": "Africa",
+  "capital": {
+   "name": "Dodoma",
+   "lat": -6.798067,
+   "lon": 39.266396
+  },
+  "centroid": {
+   "lat": -7.417909505617978,
+   "lon": 35.66302557303371
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "TJK": {
+  "id": "TJK",
+  "cca2": "TJ",
+  "name": "Tajikistan",
+  "continent": "Asia",
+  "capital": {
+   "name": "Dushanbe",
+   "lat": 38.560035,
+   "lon": 68.773879
+  },
+  "centroid": {
+   "lat": 38.84476554255319,
+   "lon": 70.87633081914893
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "TWN": {
+  "id": "TWN",
+  "cca2": "TW",
+  "name": "Taiwan",
+  "continent": "Asia",
+  "capital": {
+   "name": "Taipei",
+   "lat": 25.035833,
+   "lon": 121.568333
+  },
+  "centroid": {
+   "lat": 23.4931444,
+   "lon": 121.05491526666668
+  },
+  "tier": "normal",
+  "playable": false
+ },
+ "SYR": {
+  "id": "SYR",
+  "cca2": "SY",
+  "name": "Syria",
+  "continent": "Asia",
+  "capital": {
+   "name": "Damascus",
+   "lat": 33.50198,
+   "lon": 36.29805
+  },
+  "centroid": {
+   "lat": 35.266587446808515,
+   "lon": 37.90508940425532
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "CHE": {
+  "id": "CHE",
+  "cca2": "CH",
+  "name": "Switzerland",
+  "continent": "Europe",
+  "capital": {
+   "name": "Bern",
+   "lat": 46.916683,
+   "lon": 7.466976
+  },
+  "centroid": {
+   "lat": 46.681277584905644,
+   "lon": 8.209933283018866
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "SWE": {
+  "id": "SWE",
+  "cca2": "SE",
+  "name": "Sweden",
+  "continent": "Europe",
+  "capital": {
+   "name": "Stockholm",
+   "lat": 59.324127,
+   "lon": 18.0663
+  },
+  "centroid": {
+   "lat": 61.726254081632604,
+   "lon": 17.273113688775503
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "SWZ": {
+  "id": "SWZ",
+  "cca2": "SZ",
+  "name": "eSwatini",
+  "continent": "Africa",
+  "capital": {
+   "name": "Lobamba",
+   "lat": -26.316651,
+   "lon": 31.133335
+  },
+  "centroid": {
+   "lat": -26.590193666666668,
+   "lon": 31.46209308333333
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "SUR": {
+  "id": "SUR",
+  "cca2": "SR",
+  "name": "Suriname",
+  "continent": "South America",
+  "capital": {
+   "name": "Paramaribo",
+   "lat": 5.83503,
+   "lon": -55.167031
+  },
+  "centroid": {
+   "lat": 4.1834839,
+   "lon": -55.947882074999995
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "SSD": {
+  "id": "SSD",
+  "cca2": "SS",
+  "name": "S. Sudan",
+  "continent": "Africa",
+  "capital": {
+   "name": "Juba",
+   "lat": 4.829975,
+   "lon": 31.580026
+  },
+  "centroid": {
+   "lat": 7.748340416666665,
+   "lon": 29.94107842857143
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "SDN": {
+  "id": "SDN",
+  "cca2": "SD",
+  "name": "Sudan",
+  "continent": "Africa",
+  "capital": {
+   "name": "Khartoum",
+   "lat": 15.590024,
+   "lon": 32.532233
+  },
+  "centroid": {
+   "lat": 13.36032662,
+   "lon": 29.92858692000001
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "LKA": {
+  "id": "LKA",
+  "cca2": "LK",
+  "name": "Sri Lanka",
+  "continent": "Asia",
+  "capital": {
+   "name": "Colombo",
+   "lat": 6.931966,
+   "lon": 79.857751
+  },
+  "centroid": {
+   "lat": 8.20714256,
+   "lon": 80.55355076000001
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "ESP": {
+  "id": "ESP",
+  "cca2": "ES",
+  "name": "Spain",
+  "continent": "Europe",
+  "capital": {
+   "name": "Madrid",
+   "lat": 40.401972,
+   "lon": -3.685297
+  },
+  "centroid": {
+   "lat": 38.06284998136645,
+   "lon": -5.67457052795031
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "KOR": {
+  "id": "KOR",
+  "cca2": "KR",
+  "name": "South Korea",
+  "continent": "Asia",
+  "capital": {
+   "name": "Seoul",
+   "lat": 37.568295,
+   "lon": 126.997785
+  },
+  "centroid": {
+   "lat": 35.70026907777776,
+   "lon": 127.27507925555553
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "ZAF": {
+  "id": "ZAF",
+  "cca2": "ZA",
+  "name": "South Africa",
+  "continent": "Africa",
+  "capital": {
+   "name": "Pretoria",
+   "lat": -33.918065,
+   "lon": 18.433042
+  },
+  "centroid": {
+   "lat": -29.060716883928556,
+   "lon": 24.67138850000001
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "SOM": {
+  "id": "SOM",
+  "cca2": "SO",
+  "name": "Somalia",
+  "continent": "Africa",
+  "capital": {
+   "name": "Mogadishu",
+   "lat": 2.068627,
+   "lon": 45.364732
+  },
+  "centroid": {
+   "lat": 6.82601315,
+   "lon": 47.38544924999999
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "SOL": {
+  "id": "SOL",
+  "cca2": "",
+  "name": "Somaliland",
+  "continent": "Africa",
+  "capital": {
+   "name": "Somaliland",
+   "lat": 9.560022,
+   "lon": 44.06531
+  },
+  "centroid": {
+   "lat": 10.234472555555556,
+   "lon": 45.65203994444444
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "SLB": {
+  "id": "SLB",
+  "cca2": "SB",
+  "name": "Solomon Is.",
+  "continent": "Oceania",
+  "capital": {
+   "name": "Honiara",
+   "lat": -9.437994,
+   "lon": 159.949766
+  },
+  "centroid": {
+   "lat": -8.977500435643567,
+   "lon": 159.6694955247525
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "SVK": {
+  "id": "SVK",
+  "cca2": "SK",
+  "name": "Slovakia",
+  "continent": "Europe",
+  "capital": {
+   "name": "Bratislava",
+   "lat": 48.150018,
+   "lon": 17.116981
+  },
+  "centroid": {
+   "lat": 48.864762828571436,
+   "lon": 19.778521285714287
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "SVN": {
+  "id": "SVN",
+  "cca2": "SI",
+  "name": "Slovenia",
+  "continent": "Europe",
+  "capital": {
+   "name": "Ljubljana",
+   "lat": 46.055288,
+   "lon": 14.514969
+  },
+  "centroid": {
+   "lat": 46.015249000000004,
+   "lon": 14.821888
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "SGP": {
+  "id": "SGP",
+  "cca2": "SG",
+  "name": "Singapore",
+  "continent": "Asia",
+  "capital": {
+   "name": "Singapore",
+   "lat": 1.294979,
+   "lon": 103.853875
+  },
+  "centroid": {
+   "lat": 1.34235825,
+   "lon": 103.81445325
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "SLE": {
+  "id": "SLE",
+  "cca2": "SL",
+  "name": "Sierra Leone",
+  "continent": "Africa",
+  "capital": {
+   "name": "Freetown",
+   "lat": 8.471957,
+   "lon": -13.236162
+  },
+  "centroid": {
+   "lat": 8.453022585365856,
+   "lon": -12.046858341463414
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "SYC": {
+  "id": "SYC",
+  "cca2": "SC",
+  "name": "Seychelles",
+  "continent": "Seven seas (open ocean)",
+  "capital": {
+   "name": "Victoria",
+   "lat": -4.616632,
+   "lon": 55.44999
+  },
+  "centroid": {
+   "lat": -4.66166975,
+   "lon": 55.48061525
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "SRB": {
+  "id": "SRB",
+  "cca2": "RS",
+  "name": "Serbia",
+  "continent": "Europe",
+  "capital": {
+   "name": "Belgrade",
+   "lat": 44.820591,
+   "lon": 20.466045
+  },
+  "centroid": {
+   "lat": 44.15329266037736,
+   "lon": 20.745601792452835
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "SEN": {
+  "id": "SEN",
+  "cca2": "SN",
+  "name": "Senegal",
+  "continent": "Africa",
+  "capital": {
+   "name": "Dakar",
+   "lat": 14.717778,
+   "lon": -17.475076
+  },
+  "centroid": {
+   "lat": 13.988722266666667,
+   "lon": -14.672877566666667
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "SAU": {
+  "id": "SAU",
+  "cca2": "SA",
+  "name": "Saudi Arabia",
+  "continent": "Asia",
+  "capital": {
+   "name": "Riyadh",
+   "lat": 24.634497,
+   "lon": 46.720487
+  },
+  "centroid": {
+   "lat": 23.148798319999997,
+   "lon": 43.38643845000001
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "STP": {
+  "id": "STP",
+  "cca2": "ST",
+  "name": "São Tomé and Principe",
+  "continent": "Africa",
+  "capital": {
+   "name": "São Tomé",
+   "lat": 0.337466,
+   "lon": 6.72965
+  },
+  "centroid": {
+   "lat": 0.23374033333333333,
+   "lon": 6.6015136666666665
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "SMR": {
+  "id": "SMR",
+  "cca2": "SM",
+  "name": "San Marino",
+  "continent": "Europe",
+  "capital": {
+   "name": "City of San Marino",
+   "lat": 43.936096,
+   "lon": 12.44177
+  },
+  "centroid": {
+   "lat": 43.941910666666665,
+   "lon": 12.461946666666668
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "WSM": {
+  "id": "WSM",
+  "cca2": "WS",
+  "name": "Samoa",
+  "continent": "Oceania",
+  "capital": {
+   "name": "Apia",
+   "lat": -13.835715,
+   "lon": -171.768599
+  },
+  "centroid": {
+   "lat": -13.7854296,
+   "lon": -172.0923485
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "VCT": {
+  "id": "VCT",
+  "cca2": "VC",
+  "name": "St. Vin. and Gren.",
+  "continent": "North America",
+  "capital": {
+   "name": "Kingstown",
+   "lat": 13.155756,
+   "lon": -61.220236
+  },
+  "centroid": {
+   "lat": 13.253527499999999,
+   "lon": -61.21480724999999
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "LCA": {
+  "id": "LCA",
+  "cca2": "LC",
+  "name": "Saint Lucia",
+  "continent": "North America",
+  "capital": {
+   "name": "Castries",
+   "lat": 14.007875,
+   "lon": -60.992875
+  },
+  "centroid": {
+   "lat": 13.8746215,
+   "lon": -60.956970250000005
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "KNA": {
+  "id": "KNA",
+  "cca2": "KN",
+  "name": "St. Kitts and Nevis",
+  "continent": "North America",
+  "capital": {
+   "name": "Basseterre",
+   "lat": 17.302031,
+   "lon": -62.717009
+  },
+  "centroid": {
+   "lat": 17.150195333333333,
+   "lon": -62.590804
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "RWA": {
+  "id": "RWA",
+  "cca2": "RW",
+  "name": "Rwanda",
+  "continent": "Africa",
+  "capital": {
+   "name": "Kigali",
+   "lat": -1.951644,
+   "lon": 30.058586
+  },
+  "centroid": {
+   "lat": -2.084322166666667,
+   "lon": 29.833915166666667
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "RUS": {
+  "id": "RUS",
+  "cca2": "RU",
+  "name": "Russia",
+  "continent": "Europe",
+  "capital": {
+   "name": "Moscow",
+   "lat": 55.75411,
+   "lon": 37.613577
+  },
+  "centroid": {
+   "lat": 64.4565781302891,
+   "lon": 83.22093573062413
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "ROU": {
+  "id": "ROU",
+  "cca2": "RO",
+  "name": "Romania",
+  "continent": "Europe",
+  "capital": {
+   "name": "Bucharest",
+   "lat": 44.435318,
+   "lon": 26.098001
+  },
+  "centroid": {
+   "lat": 45.59920501754385,
+   "lon": 25.618013298245618
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "QAT": {
+  "id": "QAT",
+  "cca2": "QA",
+  "name": "Qatar",
+  "continent": "Asia",
+  "capital": {
+   "name": "Doha",
+   "lat": 25.286556,
+   "lon": 51.532968
+  },
+  "centroid": {
+   "lat": 25.254301899999998,
+   "lon": 51.217490399999996
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "PRT": {
+  "id": "PRT",
+  "cca2": "PT",
+  "name": "Portugal",
+  "continent": "Europe",
+  "capital": {
+   "name": "Lisbon",
+   "lat": 38.724669,
+   "lon": -9.146812
+  },
+  "centroid": {
+   "lat": 38.95302504705884,
+   "lon": -13.175827764705879
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "POL": {
+  "id": "POL",
+  "cca2": "PL",
+  "name": "Poland",
+  "continent": "Europe",
+  "capital": {
+   "name": "Warsaw",
+   "lat": 52.230872,
+   "lon": 21.005347
+  },
+  "centroid": {
+   "lat": 51.303818036144584,
+   "lon": 18.94080738554217
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "PHL": {
+  "id": "PHL",
+  "cca2": "PH",
+  "name": "Philippines",
+  "continent": "Asia",
+  "capital": {
+   "name": "Manila",
+   "lat": 14.606105,
+   "lon": 120.980271
+  },
+  "centroid": {
+   "lat": 11.12538403910615,
+   "lon": 122.75829617877088
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "PER": {
+  "id": "PER",
+  "cca2": "PE",
+  "name": "Peru",
+  "continent": "South America",
+  "capital": {
+   "name": "Lima",
+   "lat": -12.046067,
+   "lon": -77.052008
+  },
+  "centroid": {
+   "lat": -7.823060382978729,
+   "lon": -74.50215782269508
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "PRY": {
+  "id": "PRY",
+  "cca2": "PY",
+  "name": "Paraguay",
+  "continent": "South America",
+  "capital": {
+   "name": "Asunción",
+   "lat": -25.290671,
+   "lon": -57.625834
+  },
+  "centroid": {
+   "lat": -24.02252057407407,
+   "lon": -57.68427277777778
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "PNG": {
+  "id": "PNG",
+  "cca2": "PG",
+  "name": "Papua New Guinea",
+  "continent": "Oceania",
+  "capital": {
+   "name": "Port Moresby",
+   "lat": -9.464708,
+   "lon": 147.192504
+  },
+  "centroid": {
+   "lat": -6.618957160194176,
+   "lon": 148.9919722815535
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "PAN": {
+  "id": "PAN",
+  "cca2": "PA",
+  "name": "Panama",
+  "continent": "North America",
+  "capital": {
+   "name": "Panama City",
+   "lat": 8.969963,
+   "lon": -79.534983
+  },
+  "centroid": {
+   "lat": 8.446029293333332,
+   "lon": -80.22308525333334
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "PLW": {
+  "id": "PLW",
+  "cca2": "PW",
+  "name": "Palau",
+  "continent": "Oceania",
+  "capital": {
+   "name": "Ngerulmud",
+   "lat": 7.487396,
+   "lon": 134.626549
+  },
+  "centroid": {
+   "lat": 7.495141499999999,
+   "lon": 134.57424325
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "PAK": {
+  "id": "PAK",
+  "cca2": "PK",
+  "name": "Pakistan",
+  "continent": "Asia",
+  "capital": {
+   "name": "Islamabad",
+   "lat": 33.689368,
+   "lon": 73.08063
+  },
+  "centroid": {
+   "lat": 30.20214401298702,
+   "lon": 69.7679332922078
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "OMN": {
+  "id": "OMN",
+  "cca2": "OM",
+  "name": "Oman",
+  "continent": "Asia",
+  "capital": {
+   "name": "Muscat",
+   "lat": 23.585179,
+   "lon": 58.378311
+  },
+  "centroid": {
+   "lat": 21.508594649122806,
+   "lon": 56.68752228070174
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "NOR": {
+  "id": "NOR",
+  "cca2": "NO",
+  "name": "Norway",
+  "continent": "Europe",
+  "capital": {
+   "name": "Oslo",
+   "lat": 59.918636,
+   "lon": 10.748033
+  },
+  "centroid": {
+   "lat": 69.92522134711965,
+   "lon": 16.186990963072375
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "PRK": {
+  "id": "PRK",
+  "cca2": "KP",
+  "name": "North Korea",
+  "continent": "Asia",
+  "capital": {
+   "name": "Pyongyang",
+   "lat": 39.021385,
+   "lon": 125.752745
+  },
+  "centroid": {
+   "lat": 40.159687909090906,
+   "lon": 127.3145685909091
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "NGA": {
+  "id": "NGA",
+  "cca2": "NG",
+  "name": "Nigeria",
+  "continent": "Africa",
+  "capital": {
+   "name": "Abuja",
+   "lat": 6.445208,
+   "lon": 3.389585
+  },
+  "centroid": {
+   "lat": 8.31048408695652,
+   "lon": 7.81698292173913
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "NER": {
+  "id": "NER",
+  "cca2": "NE",
+  "name": "Niger",
+  "continent": "Africa",
+  "capital": {
+   "name": "Niamey",
+   "lat": 13.518652,
+   "lon": 2.11471
+  },
+  "centroid": {
+   "lat": 15.187679538461536,
+   "lon": 6.978650892307691
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "NIC": {
+  "id": "NIC",
+  "cca2": "NI",
+  "name": "Nicaragua",
+  "continent": "North America",
+  "capital": {
+   "name": "Managua",
+   "lat": 12.154962,
+   "lon": -86.270437
+  },
+  "centroid": {
+   "lat": 13.002313775510197,
+   "lon": -84.72066024489796
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "NZL": {
+  "id": "NZL",
+  "cca2": "NZ",
+  "name": "New Zealand",
+  "continent": "Oceania",
+  "capital": {
+   "name": "Wellington",
+   "lat": -41.292068,
+   "lon": 174.777201
+  },
+  "centroid": {
+   "lat": -41.51882100420168,
+   "lon": 157.5241382983193
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "NIU": {
+  "id": "NIU",
+  "cca2": "NU",
+  "name": "Niue",
+  "continent": "Oceania",
+  "capital": {
+   "name": "Alofi",
+   "lat": -19.06494175,
+   "lon": -169.8724
+  },
+  "centroid": {
+   "lat": -19.06494175,
+   "lon": -169.8724
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "COK": {
+  "id": "COK",
+  "cca2": "CK",
+  "name": "Cook Is.",
+  "continent": "Oceania",
+  "capital": {
+   "name": "Avarua",
+   "lat": -21.222266,
+   "lon": -159.78378866666665
+  },
+  "centroid": {
+   "lat": -21.222266,
+   "lon": -159.78378866666665
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "NLD": {
+  "id": "NLD",
+  "cca2": "NL",
+  "name": "Netherlands",
+  "continent": "Europe",
+  "capital": {
+   "name": "Amsterdam",
+   "lat": 52.351914,
+   "lon": 4.914694
+  },
+  "centroid": {
+   "lat": 48.99688216363635,
+   "lon": -0.043500563636363475
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "ABW": {
+  "id": "ABW",
+  "cca2": "AW",
+  "name": "Aruba",
+  "continent": "North America",
+  "capital": {
+   "name": "Oranjestad",
+   "lat": 12.537695333333334,
+   "lon": -70.00011366666666
+  },
+  "centroid": {
+   "lat": 12.537695333333334,
+   "lon": -70.00011366666666
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "CUW": {
+  "id": "CUW",
+  "cca2": "CW",
+  "name": "Curaçao",
+  "continent": "North America",
+  "capital": {
+   "name": "Willemstad",
+   "lat": 12.193961666666667,
+   "lon": -68.96835933333334
+  },
+  "centroid": {
+   "lat": 12.193961666666667,
+   "lon": -68.96835933333334
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "NPL": {
+  "id": "NPL",
+  "cca2": "NP",
+  "name": "Nepal",
+  "continent": "Asia",
+  "capital": {
+   "name": "Kathmandu",
+   "lat": 27.718638,
+   "lon": 85.314696
+  },
+  "centroid": {
+   "lat": 28.123604345454545,
+   "lon": 84.15666374545455
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "NRU": {
+  "id": "NRU",
+  "cca2": "NR",
+  "name": "Nauru",
+  "continent": "Oceania",
+  "capital": {
+   "name": "Yaren",
+   "lat": -0.530371,
+   "lon": 166.934798
+  },
+  "centroid": {
+   "lat": -0.530371,
+   "lon": 166.934798
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "NAM": {
+  "id": "NAM",
+  "cca2": "NA",
+  "name": "Namibia",
+  "continent": "Africa",
+  "capital": {
+   "name": "Windhoek",
+   "lat": -22.570006,
+   "lon": 17.083546
+  },
+  "centroid": {
+   "lat": -21.750835592592598,
+   "lon": 17.941778796296298
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "MOZ": {
+  "id": "MOZ",
+  "cca2": "MZ",
+  "name": "Mozambique",
+  "continent": "Africa",
+  "capital": {
+   "name": "Maputo",
+   "lat": -25.953332,
+   "lon": 32.587217
+  },
+  "centroid": {
+   "lat": -17.23773338167939,
+   "lon": 35.53942929770993
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "MAR": {
+  "id": "MAR",
+  "cca2": "MA",
+  "name": "Morocco",
+  "continent": "Africa",
+  "capital": {
+   "name": "Rabat",
+   "lat": 34.025307,
+   "lon": -6.836408
+  },
+  "centroid": {
+   "lat": 29.085948604166674,
+   "lon": -8.830721572916667
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "ESH": {
+  "id": "ESH",
+  "cca2": "EH",
+  "name": "W. Sahara",
+  "continent": "Africa",
+  "capital": {
+   "name": "El Aaiún",
+   "lat": 24.220879705882357,
+   "lon": -12.696696941176471
+  },
+  "centroid": {
+   "lat": 24.220879705882357,
+   "lon": -12.696696941176471
+  },
+  "tier": "normal",
+  "playable": false
+ },
+ "MNE": {
+  "id": "MNE",
+  "cca2": "ME",
+  "name": "Montenegro",
+  "continent": "Europe",
+  "capital": {
+   "name": "Podgorica",
+   "lat": 42.465972,
+   "lon": 19.266307
+  },
+  "centroid": {
+   "lat": 42.74232339130435,
+   "lon": 19.206169260869565
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "MNG": {
+  "id": "MNG",
+  "cca2": "MN",
+  "name": "Mongolia",
+  "continent": "Asia",
+  "capital": {
+   "name": "Ulan Bator",
+   "lat": 47.918619,
+   "lon": 106.91467
+  },
+  "centroid": {
+   "lat": 47.727523137499986,
+   "lon": 103.09159729375003
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "MDA": {
+  "id": "MDA",
+  "cca2": "MD",
+  "name": "Moldova",
+  "continent": "Europe",
+  "capital": {
+   "name": "Chișinău",
+   "lat": 47.005024,
+   "lon": 28.857711
+  },
+  "centroid": {
+   "lat": 46.986715972222214,
+   "lon": 28.665337500000003
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "MCO": {
+  "id": "MCO",
+  "cca2": "MC",
+  "name": "Monaco",
+  "continent": "Europe",
+  "capital": {
+   "name": "Monaco",
+   "lat": 43.739646,
+   "lon": 7.406913
+  },
+  "centroid": {
+   "lat": 43.74916966666667,
+   "lon": 7.4038086666666665
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "MEX": {
+  "id": "MEX",
+  "cca2": "MX",
+  "name": "Mexico",
+  "continent": "North America",
+  "capital": {
+   "name": "Mexico City",
+   "lat": 19.444388,
+   "lon": -99.132934
+  },
+  "centroid": {
+   "lat": 24.084026082781463,
+   "lon": -103.84152720198679
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "MUS": {
+  "id": "MUS",
+  "cca2": "MU",
+  "name": "Mauritius",
+  "continent": "Seven seas (open ocean)",
+  "capital": {
+   "name": "Port Louis",
+   "lat": -20.166639,
+   "lon": 57.499994
+  },
+  "centroid": {
+   "lat": -20.30042316666667,
+   "lon": 57.536133
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "MRT": {
+  "id": "MRT",
+  "cca2": "MR",
+  "name": "Mauritania",
+  "continent": "Africa",
+  "capital": {
+   "name": "Nouakchott",
+   "lat": 18.086427,
+   "lon": -15.97534
+  },
+  "centroid": {
+   "lat": 18.604525,
+   "lon": -13.22900389655173
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "MLT": {
+  "id": "MLT",
+  "cca2": "MT",
+  "name": "Malta",
+  "continent": "Europe",
+  "capital": {
+   "name": "Valletta",
+   "lat": 35.899732,
+   "lon": 14.514711
+  },
+  "centroid": {
+   "lat": 35.88427733333333,
+   "lon": 14.451302333333333
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "MLI": {
+  "id": "MLI",
+  "cca2": "ML",
+  "name": "Mali",
+  "continent": "Africa",
+  "capital": {
+   "name": "Bamako",
+   "lat": 12.65196,
+   "lon": -8.001985
+  },
+  "centroid": {
+   "lat": 14.03042743636364,
+   "lon": -5.526342763636365
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "MDV": {
+  "id": "MDV",
+  "cca2": "MV",
+  "name": "Maldives",
+  "continent": "Seven seas (open ocean)",
+  "capital": {
+   "name": "Malé",
+   "lat": 4.172037,
+   "lon": 73.508901
+  },
+  "centroid": {
+   "lat": 3.2641603333333333,
+   "lon": 73.40976566666666
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "MYS": {
+  "id": "MYS",
+  "cca2": "MY",
+  "name": "Malaysia",
+  "continent": "Asia",
+  "capital": {
+   "name": "Kuala Lumpur",
+   "lat": 3.139797,
+   "lon": 101.688699
+  },
+  "centroid": {
+   "lat": 4.349720321678323,
+   "lon": 110.61196737062936
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "MWI": {
+  "id": "MWI",
+  "cca2": "MW",
+  "name": "Malawi",
+  "continent": "Africa",
+  "capital": {
+   "name": "Lilongwe",
+   "lat": -13.983295,
+   "lon": 33.783302
+  },
+  "centroid": {
+   "lat": -12.800505785714288,
+   "lon": 34.06464139285715
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "MDG": {
+  "id": "MDG",
+  "cca2": "MG",
+  "name": "Madagascar",
+  "continent": "Africa",
+  "capital": {
+   "name": "Antananarivo",
+   "lat": -18.914691,
+   "lon": 47.514678
+  },
+  "centroid": {
+   "lat": -17.53796006024097,
+   "lon": 47.0581890361446
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "MKD": {
+  "id": "MKD",
+  "cca2": "MK",
+  "name": "North Macedonia",
+  "continent": "Europe",
+  "capital": {
+   "name": "Skopje",
+   "lat": 42.000006,
+   "lon": 21.433461
+  },
+  "centroid": {
+   "lat": 41.65134152631579,
+   "lon": 21.66756273684211
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "LUX": {
+  "id": "LUX",
+  "cca2": "LU",
+  "name": "Luxembourg",
+  "continent": "Europe",
+  "capital": {
+   "name": "Luxembourg",
+   "lat": 49.61166,
+   "lon": 6.130003
+  },
+  "centroid": {
+   "lat": 49.7810985,
+   "lon": 6.0279884
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "LTU": {
+  "id": "LTU",
+  "cca2": "LT",
+  "name": "Lithuania",
+  "continent": "Europe",
+  "capital": {
+   "name": "Vilnius",
+   "lat": 54.683366,
+   "lon": 25.316635
+  },
+  "centroid": {
+   "lat": 54.89729459459459,
+   "lon": 24.49061445945946
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "LIE": {
+  "id": "LIE",
+  "cca2": "LI",
+  "name": "Liechtenstein",
+  "continent": "Europe",
+  "capital": {
+   "name": "Vaduz",
+   "lat": 47.133724,
+   "lon": 9.51667
+  },
+  "centroid": {
+   "lat": 47.130126999999995,
+   "lon": 9.531835666666668
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "LBY": {
+  "id": "LBY",
+  "cca2": "LY",
+  "name": "Libya",
+  "continent": "Africa",
+  "capital": {
+   "name": "Tripoli",
+   "lat": 32.8925,
+   "lon": 13.180012
+  },
+  "centroid": {
+   "lat": 29.645233394366194,
+   "lon": 15.9910375915493
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "LBR": {
+  "id": "LBR",
+  "cca2": "LR",
+  "name": "Liberia",
+  "continent": "Africa",
+  "capital": {
+   "name": "Monrovia",
+   "lat": 6.314582,
+   "lon": -10.79966
+  },
+  "centroid": {
+   "lat": 6.939175945945947,
+   "lon": -9.263881648648649
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "LSO": {
+  "id": "LSO",
+  "cca2": "LS",
+  "name": "Lesotho",
+  "continent": "Africa",
+  "capital": {
+   "name": "Maseru",
+   "lat": -29.316674,
+   "lon": 27.483273
+  },
+  "centroid": {
+   "lat": -29.728483166666667,
+   "lon": 28.23586433333333
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "LBN": {
+  "id": "LBN",
+  "cca2": "LB",
+  "name": "Lebanon",
+  "continent": "Asia",
+  "capital": {
+   "name": "Beirut",
+   "lat": 33.873921,
+   "lon": 35.507762
+  },
+  "centroid": {
+   "lat": 34.006703705882344,
+   "lon": 36.01239105882353
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "LVA": {
+  "id": "LVA",
+  "cca2": "LV",
+  "name": "Latvia",
+  "continent": "Europe",
+  "capital": {
+   "name": "Riga",
+   "lat": 56.950024,
+   "lon": 24.099965
+  },
+  "centroid": {
+   "lat": 56.8849094736842,
+   "lon": 24.936603131578952
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "LAO": {
+  "id": "LAO",
+  "cca2": "LA",
+  "name": "Laos",
+  "continent": "Asia",
+  "capital": {
+   "name": "Vientiane",
+   "lat": 17.966693,
+   "lon": 102.59998
+  },
+  "centroid": {
+   "lat": 18.239217418367346,
+   "lon": 103.86816008163264
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "KGZ": {
+  "id": "KGZ",
+  "cca2": "KG",
+  "name": "Kyrgyzstan",
+  "continent": "Asia",
+  "capital": {
+   "name": "Bishkek",
+   "lat": 42.875025,
+   "lon": 74.583258
+  },
+  "centroid": {
+   "lat": 40.882945147368424,
+   "lon": 73.08414682105264
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "KWT": {
+  "id": "KWT",
+  "cca2": "KW",
+  "name": "Kuwait",
+  "continent": "Asia",
+  "capital": {
+   "name": "Kuwait City",
+   "lat": 29.371664,
+   "lon": 47.976355
+  },
+  "centroid": {
+   "lat": 29.531844000000003,
+   "lon": 47.786290111111114
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "KOS": {
+  "id": "KOS",
+  "cca2": "",
+  "name": "Kosovo",
+  "continent": "Europe",
+  "capital": {
+   "name": "Kosovo",
+   "lat": 42.66671,
+   "lon": 21.165984
+  },
+  "centroid": {
+   "lat": 42.489694842105266,
+   "lon": 20.877955368421055
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "KIR": {
+  "id": "KIR",
+  "cca2": "KI",
+  "name": "Kiribati",
+  "continent": "Oceania",
+  "capital": {
+   "name": "South Tarawa",
+   "lat": 1.338188,
+   "lon": 173.017571
+  },
+  "centroid": {
+   "lat": -0.8753508749999999,
+   "lon": -164.6647614375
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "KEN": {
+  "id": "KEN",
+  "cca2": "KE",
+  "name": "Kenya",
+  "continent": "Africa",
+  "capital": {
+   "name": "Nairobi",
+   "lat": -1.281401,
+   "lon": 36.814711
+  },
+  "centroid": {
+   "lat": 0.8334732888888897,
+   "lon": 37.88782991111111
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "KAZ": {
+  "id": "KAZ",
+  "cca2": "KZ",
+  "name": "Kazakhstan",
+  "continent": "Asia",
+  "capital": {
+   "name": "Astana",
+   "lat": 51.181125,
+   "lon": 71.427774
+  },
+  "centroid": {
+   "lat": 48.30610738403042,
+   "lon": 65.05543310266162
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "JOR": {
+  "id": "JOR",
+  "cca2": "JO",
+  "name": "Jordan",
+  "continent": "Asia",
+  "capital": {
+   "name": "Amman",
+   "lat": 31.951971,
+   "lon": 35.931354
+  },
+  "centroid": {
+   "lat": 31.395015347826085,
+   "lon": 37.11749743478261
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "JPN": {
+  "id": "JPN",
+  "cca2": "JP",
+  "name": "Japan",
+  "continent": "Asia",
+  "capital": {
+   "name": "Tokyo",
+   "lat": 35.686963,
+   "lon": 139.749462
+  },
+  "centroid": {
+   "lat": 35.37045996470587,
+   "lon": 134.94670986470578
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "JAM": {
+  "id": "JAM",
+  "cca2": "JM",
+  "name": "Jamaica",
+  "continent": "North America",
+  "capital": {
+   "name": "Kingston",
+   "lat": 17.977077,
+   "lon": -76.767434
+  },
+  "centroid": {
+   "lat": 18.067783785714287,
+   "lon": -77.29087607142856
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "ITA": {
+  "id": "ITA",
+  "cca2": "IT",
+  "name": "Italy",
+  "continent": "Europe",
+  "capital": {
+   "name": "Rome",
+   "lat": 41.897902,
+   "lon": 12.481313
+  },
+  "centroid": {
+   "lat": 42.291773051724135,
+   "lon": 12.149439867816094
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "ISR": {
+  "id": "ISR",
+  "cca2": "IL",
+  "name": "Israel",
+  "continent": "Asia",
+  "capital": {
+   "name": "Jerusalem",
+   "lat": 32.081937,
+   "lon": 34.768066
+  },
+  "centroid": {
+   "lat": 31.975922600000004,
+   "lon": 35.187650680000004
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "PSE": {
+  "id": "PSE",
+  "cca2": "PS",
+  "name": "Palestine",
+  "continent": "Asia",
+  "capital": {
+   "name": "Ramallah",
+   "lat": 31.785661928571425,
+   "lon": 34.94361764285715
+  },
+  "centroid": {
+   "lat": 31.785661928571425,
+   "lon": 34.94361764285715
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "IRL": {
+  "id": "IRL",
+  "cca2": "IE",
+  "name": "Ireland",
+  "continent": "Europe",
+  "capital": {
+   "name": "Dublin",
+   "lat": 53.346731,
+   "lon": -6.25698
+  },
+  "centroid": {
+   "lat": 53.4913861304348,
+   "lon": -8.611378543478262
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "IRQ": {
+  "id": "IRQ",
+  "cca2": "IQ",
+  "name": "Iraq",
+  "continent": "Asia",
+  "capital": {
+   "name": "Baghdad",
+   "lat": 33.340594,
+   "lon": 44.391923
+  },
+  "centroid": {
+   "lat": 33.79884620000001,
+   "lon": 44.56974453846152
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "IRN": {
+  "id": "IRN",
+  "cca2": "IR",
+  "name": "Iran",
+  "continent": "Asia",
+  "capital": {
+   "name": "Tehran",
+   "lat": 35.673889,
+   "lon": 51.422398
+  },
+  "centroid": {
+   "lat": 32.725193744565225,
+   "lon": 53.2376019076087
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "IDN": {
+  "id": "IDN",
+  "cca2": "ID",
+  "name": "Indonesia",
+  "continent": "Asia",
+  "capital": {
+   "name": "Jakarta",
+   "lat": -6.172472,
+   "lon": 106.827492
+  },
+  "centroid": {
+   "lat": -3.032357595704954,
+   "lon": 119.42977339775923
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "IND": {
+  "id": "IND",
+  "cca2": "IN",
+  "name": "India",
+  "continent": "Asia",
+  "capital": {
+   "name": "New Delhi",
+   "lat": 28.600023,
+   "lon": 77.19998
+  },
+  "centroid": {
+   "lat": 23.00995752173914,
+   "lon": 83.22211771497578
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "ISL": {
+  "id": "ISL",
+  "cca2": "IS",
+  "name": "Iceland",
+  "continent": "Europe",
+  "capital": {
+   "name": "Reykjavik",
+   "lat": 64.143459,
+   "lon": -21.936546
+  },
+  "centroid": {
+   "lat": 65.31632877685949,
+   "lon": -19.79714939669422
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "HUN": {
+  "id": "HUN",
+  "cca2": "HU",
+  "name": "Hungary",
+  "continent": "Europe",
+  "capital": {
+   "name": "Budapest",
+   "lat": 47.501952,
+   "lon": 19.081375
+  },
+  "centroid": {
+   "lat": 47.31267865957449,
+   "lon": 19.538295872340427
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "HND": {
+  "id": "HND",
+  "cca2": "HN",
+  "name": "Honduras",
+  "continent": "North America",
+  "capital": {
+   "name": "Tegucigalpa",
+   "lat": 14.103991,
+   "lon": -87.219475
+  },
+  "centroid": {
+   "lat": 14.762774122807016,
+   "lon": -86.15711601754383
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "HTI": {
+  "id": "HTI",
+  "cca2": "HT",
+  "name": "Haiti",
+  "continent": "North America",
+  "capital": {
+   "name": "Port-au-Prince",
+   "lat": 18.54297,
+   "lon": -72.33798
+  },
+  "centroid": {
+   "lat": 18.89874714285715,
+   "lon": -72.76367882857143
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "GUY": {
+  "id": "GUY",
+  "cca2": "GY",
+  "name": "Guyana",
+  "continent": "South America",
+  "capital": {
+   "name": "Georgetown",
+   "lat": 6.801974,
+   "lon": -58.167029
+  },
+  "centroid": {
+   "lat": 4.7040197500000005,
+   "lon": -58.978600279411765
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "GNB": {
+  "id": "GNB",
+  "cca2": "GW",
+  "name": "Guinea-Bissau",
+  "continent": "Africa",
+  "capital": {
+   "name": "Bissau",
+   "lat": 11.865024,
+   "lon": -15.598361
+  },
+  "centroid": {
+   "lat": 11.801192290322582,
+   "lon": -15.20854641935484
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "GIN": {
+  "id": "GIN",
+  "cca2": "GN",
+  "name": "Guinea",
+  "continent": "Africa",
+  "capital": {
+   "name": "Conakry",
+   "lat": 9.533469,
+   "lon": -13.682181
+  },
+  "centroid": {
+   "lat": 10.067243471910112,
+   "lon": -10.92937748314607
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "GTM": {
+  "id": "GTM",
+  "cca2": "GT",
+  "name": "Guatemala",
+  "continent": "North America",
+  "capital": {
+   "name": "Guatemala City",
+   "lat": 14.623081,
+   "lon": -90.528911
+  },
+  "centroid": {
+   "lat": 15.535178928571426,
+   "lon": -90.11720839285715
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "GRD": {
+  "id": "GRD",
+  "cca2": "GD",
+  "name": "Grenada",
+  "continent": "North America",
+  "capital": {
+   "name": "St. George's",
+   "lat": 12.052633,
+   "lon": -61.741643
+  },
+  "centroid": {
+   "lat": 12.096699000000001,
+   "lon": -61.689374799999996
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "GRC": {
+  "id": "GRC",
+  "cca2": "GR",
+  "name": "Greece",
+  "continent": "Europe",
+  "capital": {
+   "name": "Athens",
+   "lat": 37.985272,
+   "lon": 23.731375
+  },
+  "centroid": {
+   "lat": 38.41139133467742,
+   "lon": 23.79467145967741
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "GHA": {
+  "id": "GHA",
+  "cca2": "GH",
+  "name": "Ghana",
+  "continent": "Africa",
+  "capital": {
+   "name": "Accra",
+   "lat": 5.55198,
+   "lon": -0.218662
+  },
+  "centroid": {
+   "lat": 8.181122875000002,
+   "lon": -0.9632730833333333
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "DEU": {
+  "id": "DEU",
+  "cca2": "DE",
+  "name": "Germany",
+  "continent": "Europe",
+  "capital": {
+   "name": "Berlin",
+   "lat": 52.523764,
+   "lon": 13.399603
+  },
+  "centroid": {
+   "lat": 51.66217635897437,
+   "lon": 10.430321019230771
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "GEO": {
+  "id": "GEO",
+  "cca2": "GE",
+  "name": "Georgia",
+  "continent": "Asia",
+  "capital": {
+   "name": "Tbilisi",
+   "lat": 41.726956,
+   "lon": 44.78885
+  },
+  "centroid": {
+   "lat": 42.06885111904762,
+   "lon": 43.77896433333333
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "GMB": {
+  "id": "GMB",
+  "cca2": "GM",
+  "name": "Gambia",
+  "continent": "Africa",
+  "capital": {
+   "name": "Banjul",
+   "lat": 13.453876,
+   "lon": -16.591701
+  },
+  "centroid": {
+   "lat": 13.402402239999999,
+   "lon": -15.66287496
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "GAB": {
+  "id": "GAB",
+  "cca2": "GA",
+  "name": "Gabon",
+  "continent": "Africa",
+  "capital": {
+   "name": "Libreville",
+   "lat": 0.385389,
+   "lon": 9.457965
+  },
+  "centroid": {
+   "lat": -1.071642402777778,
+   "lon": 11.34799676388889
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "FRA": {
+  "id": "FRA",
+  "cca2": "FR",
+  "name": "France",
+  "continent": "Europe",
+  "capital": {
+   "name": "Paris",
+   "lat": 48.858092,
+   "lon": 2.352992
+  },
+  "centroid": {
+   "lat": 35.815632026086924,
+   "lon": -6.101995752173913
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "SPM": {
+  "id": "SPM",
+  "cca2": "PM",
+  "name": "St. Pierre and Miquelon",
+  "continent": "North America",
+  "capital": {
+   "name": "Saint-Pierre",
+   "lat": 46.956970500000004,
+   "lon": -56.3259645
+  },
+  "centroid": {
+   "lat": 46.956970500000004,
+   "lon": -56.3259645
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "WLF": {
+  "id": "WLF",
+  "cca2": "WF",
+  "name": "Wallis and Futuna Is.",
+  "continent": "Oceania",
+  "capital": {
+   "name": "Mata-Utu",
+   "lat": -13.285384333333333,
+   "lon": -176.16796866666667
+  },
+  "centroid": {
+   "lat": -13.285384333333333,
+   "lon": -176.16796866666667
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "MAF": {
+  "id": "MAF",
+  "cca2": "MF",
+  "name": "St-Martin",
+  "continent": "North America",
+  "capital": {
+   "name": "Marigot",
+   "lat": 18.08440733333333,
+   "lon": -63.06577166666667
+  },
+  "centroid": {
+   "lat": 18.08440733333333,
+   "lon": -63.06577166666667
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "BLM": {
+  "id": "BLM",
+  "cca2": "BL",
+  "name": "St-Barthélemy",
+  "continent": "North America",
+  "capital": {
+   "name": "Gustavia",
+   "lat": 17.902474,
+   "lon": -62.83528666666666
+  },
+  "centroid": {
+   "lat": 17.902474,
+   "lon": -62.83528666666666
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "PYF": {
+  "id": "PYF",
+  "cca2": "PF",
+  "name": "Fr. Polynesia",
+  "continent": "Oceania",
+  "capital": {
+   "name": "Papeetē",
+   "lat": -13.21875852173913,
+   "lon": -144.349448
+  },
+  "centroid": {
+   "lat": -13.21875852173913,
+   "lon": -144.349448
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "NCL": {
+  "id": "NCL",
+  "cca2": "NC",
+  "name": "New Caledonia",
+  "continent": "Oceania",
+  "capital": {
+   "name": "Nouméa",
+   "lat": -21.16767890909091,
+   "lon": 166.57412709090912
+  },
+  "centroid": {
+   "lat": -21.16767890909091,
+   "lon": 166.57412709090912
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "ATF": {
+  "id": "ATF",
+  "cca2": "TF",
+  "name": "Fr. S. Antarctic Lands",
+  "continent": "Seven seas (open ocean)",
+  "capital": {
+   "name": "Port-aux-Français",
+   "lat": -49.19965209374998,
+   "lon": 69.48272087499998
+  },
+  "centroid": {
+   "lat": -49.19965209374998,
+   "lon": 69.48272087499998
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "ALA": {
+  "id": "ALA",
+  "cca2": "AX",
+  "name": "Åland",
+  "continent": "Europe",
+  "capital": {
+   "name": "Mariehamn",
+   "lat": 60.21807466666666,
+   "lon": 19.818221083333334
+  },
+  "centroid": {
+   "lat": 60.21807466666666,
+   "lon": 19.818221083333334
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "FIN": {
+  "id": "FIN",
+  "cca2": "FI",
+  "name": "Finland",
+  "continent": "Europe",
+  "capital": {
+   "name": "Helsinki",
+   "lat": 60.163804,
+   "lon": 24.932457
+  },
+  "centroid": {
+   "lat": 64.5278747793103,
+   "lon": 24.938785682758635
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "FJI": {
+  "id": "FJI",
+  "cca2": "FJ",
+  "name": "Fiji",
+  "continent": "Oceania",
+  "capital": {
+   "name": "Suva",
+   "lat": -18.133016,
+   "lon": 178.441707
+  },
+  "centroid": {
+   "lat": -17.350981414634145,
+   "lon": 108.73541597560978
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "ETH": {
+  "id": "ETH",
+  "cca2": "ET",
+  "name": "Ethiopia",
+  "continent": "Africa",
+  "capital": {
+   "name": "Addis Ababa",
+   "lat": 9.035256,
+   "lon": 38.698059
+  },
+  "centroid": {
+   "lat": 8.987178046875,
+   "lon": 38.718942328124996
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "EST": {
+  "id": "EST",
+  "cca2": "EE",
+  "name": "Estonia",
+  "continent": "Europe",
+  "capital": {
+   "name": "Tallinn",
+   "lat": 59.433877,
+   "lon": 24.728041
+  },
+  "centroid": {
+   "lat": 58.62855956666667,
+   "lon": 24.307981766666668
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "ERI": {
+  "id": "ERI",
+  "cca2": "ER",
+  "name": "Eritrea",
+  "continent": "Africa",
+  "capital": {
+   "name": "Asmara",
+   "lat": 15.333339,
+   "lon": 38.933324
+  },
+  "centroid": {
+   "lat": 14.896514461538466,
+   "lon": 39.88697042307693
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "GNQ": {
+  "id": "GNQ",
+  "cca2": "GQ",
+  "name": "Eq. Guinea",
+  "continent": "Africa",
+  "capital": {
+   "name": "Malabo",
+   "lat": 3.750015,
+   "lon": 8.783278
+  },
+  "centroid": {
+   "lat": 2.3961363749999998,
+   "lon": 9.481781000000002
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "SLV": {
+  "id": "SLV",
+  "cca2": "SV",
+  "name": "El Salvador",
+  "continent": "North America",
+  "capital": {
+   "name": "San Salvador",
+   "lat": 13.70328,
+   "lon": -89.215576
+  },
+  "centroid": {
+   "lat": 13.727408857142857,
+   "lon": -88.70934252380951
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "EGY": {
+  "id": "EGY",
+  "cca2": "EG",
+  "name": "Egypt",
+  "continent": "Africa",
+  "capital": {
+   "name": "Cairo",
+   "lat": 30.051906,
+   "lon": 31.248022
+  },
+  "centroid": {
+   "lat": 28.68800786567164,
+   "lon": 31.650320716417912
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "ECU": {
+  "id": "ECU",
+  "cca2": "EC",
+  "name": "Ecuador",
+  "continent": "South America",
+  "capital": {
+   "name": "Quito",
+   "lat": -0.213042,
+   "lon": -78.501997
+  },
+  "centroid": {
+   "lat": -1.546130613207547,
+   "lon": -82.99364591509435
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "DOM": {
+  "id": "DOM",
+  "cca2": "DO",
+  "name": "Dominican Rep.",
+  "continent": "North America",
+  "capital": {
+   "name": "Santo Domingo",
+   "lat": 18.470745,
+   "lon": -69.929742
+  },
+  "centroid": {
+   "lat": 18.88294671875,
+   "lon": -70.49402771875
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "DMA": {
+  "id": "DMA",
+  "cca2": "DM",
+  "name": "Dominica",
+  "continent": "North America",
+  "capital": {
+   "name": "Roseau",
+   "lat": 15.301016,
+   "lon": -61.387013
+  },
+  "centroid": {
+   "lat": 15.409033,
+   "lon": -61.34810775
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "DJI": {
+  "id": "DJI",
+  "cca2": "DJ",
+  "name": "Djibouti",
+  "continent": "Africa",
+  "capital": {
+   "name": "Djibouti",
+   "lat": 11.595014,
+   "lon": 43.148002
+  },
+  "centroid": {
+   "lat": 11.759152611111112,
+   "lon": 42.710020555555566
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "GRL": {
+  "id": "GRL",
+  "cca2": "GL",
+  "name": "Greenland",
+  "continent": "North America",
+  "capital": {
+   "name": "Nuuk",
+   "lat": 72.4266762390999,
+   "lon": -40.36001366947959
+  },
+  "centroid": {
+   "lat": 72.4266762390999,
+   "lon": -40.36001366947959
+  },
+  "tier": "easy",
+  "playable": false
+ },
+ "FRO": {
+  "id": "FRO",
+  "cca2": "FO",
+  "name": "Faeroe Is.",
+  "continent": "Europe",
+  "capital": {
+   "name": "Tórshavn",
+   "lat": 62.16623379999999,
+   "lon": -6.859013733333332
+  },
+  "centroid": {
+   "lat": 62.16623379999999,
+   "lon": -6.859013733333332
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "DNK": {
+  "id": "DNK",
+  "cca2": "DK",
+  "name": "Denmark",
+  "continent": "Europe",
+  "capital": {
+   "name": "Copenhagen",
+   "lat": 55.68051,
+   "lon": 12.56154
+  },
+  "centroid": {
+   "lat": 55.79512223711338,
+   "lon": 10.732083608247423
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "CZE": {
+  "id": "CZE",
+  "cca2": "CZ",
+  "name": "Czechia",
+  "continent": "Europe",
+  "capital": {
+   "name": "Prague",
+   "lat": 50.086967,
+   "lon": 14.422939
+  },
+  "centroid": {
+   "lat": 49.90797489795919,
+   "lon": 15.72469912244898
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "CYN": {
+  "id": "CYN",
+  "cca2": "",
+  "name": "N. Cyprus",
+  "continent": "Asia",
+  "capital": {
+   "name": "N. Cyprus",
+   "lat": 35.23352718181818,
+   "lon": 33.484667909090916
+  },
+  "centroid": {
+   "lat": 35.23352718181818,
+   "lon": 33.484667909090916
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "CYP": {
+  "id": "CYP",
+  "cca2": "CY",
+  "name": "Cyprus",
+  "continent": "Asia",
+  "capital": {
+   "name": "Nicosia",
+   "lat": 35.166677,
+   "lon": 33.366635
+  },
+  "centroid": {
+   "lat": 34.931517,
+   "lon": 33.060357999999994
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "CUB": {
+  "id": "CUB",
+  "cca2": "CU",
+  "name": "Cuba",
+  "continent": "North America",
+  "capital": {
+   "name": "Havana",
+   "lat": 23.133905,
+   "lon": -82.366128
+  },
+  "centroid": {
+   "lat": 21.670503537499993,
+   "lon": -79.3508624375
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "HRV": {
+  "id": "HRV",
+  "cca2": "HR",
+  "name": "Croatia",
+  "continent": "Europe",
+  "capital": {
+   "name": "Zagreb",
+   "lat": 45.800007,
+   "lon": 15.999995
+  },
+  "centroid": {
+   "lat": 44.730798494623656,
+   "lon": 16.285556354838715
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "CIV": {
+  "id": "CIV",
+  "cca2": "CI",
+  "name": "Côte d'Ivoire",
+  "continent": "Africa",
+  "capital": {
+   "name": "Yamoussoukro",
+   "lat": 5.323126,
+   "lon": -4.020207
+  },
+  "centroid": {
+   "lat": 8.056729350649354,
+   "lon": -5.981198038961038
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "CRI": {
+  "id": "CRI",
+  "cca2": "CR",
+  "name": "Costa Rica",
+  "continent": "North America",
+  "capital": {
+   "name": "San José",
+   "lat": 9.930371,
+   "lon": -84.078814
+  },
+  "centroid": {
+   "lat": 9.633633465116278,
+   "lon": -83.98616916279069
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "COD": {
+  "id": "COD",
+  "cca2": "CD",
+  "name": "Dem. Rep. Congo",
+  "continent": "Africa",
+  "capital": {
+   "name": "Kinshasa",
+   "lat": -4.327778,
+   "lon": 15.313026
+  },
+  "centroid": {
+   "lat": -4.316946576158939,
+   "lon": 23.36669860264901
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "COG": {
+  "id": "COG",
+  "cca2": "CG",
+  "name": "Congo",
+  "continent": "Africa",
+  "capital": {
+   "name": "Brazzaville",
+   "lat": -4.25724,
+   "lon": 15.282744
+  },
+  "centroid": {
+   "lat": -1.1632027088607595,
+   "lon": 14.461272556962026
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "COM": {
+  "id": "COM",
+  "cca2": "KM",
+  "name": "Comoros",
+  "continent": "Africa",
+  "capital": {
+   "name": "Moroni",
+   "lat": -11.704158,
+   "lon": 43.240244
+  },
+  "centroid": {
+   "lat": -11.962683125000002,
+   "lon": 43.540893499999996
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "COL": {
+  "id": "COL",
+  "cca2": "CO",
+  "name": "Colombia",
+  "continent": "South America",
+  "capital": {
+   "name": "Bogotá",
+   "lat": 4.598369,
+   "lon": -74.08529
+  },
+  "centroid": {
+   "lat": 4.599604668965516,
+   "lon": -73.2481195586207
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "CHN": {
+  "id": "CHN",
+  "cca2": "CN",
+  "name": "China",
+  "continent": "Asia",
+  "capital": {
+   "name": "Beijing",
+   "lat": 39.90172,
+   "lon": 116.394201
+  },
+  "centroid": {
+   "lat": 34.30169234472936,
+   "lon": 107.32092990170938
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "MAC": {
+  "id": "MAC",
+  "cca2": "MO",
+  "name": "Macao",
+  "continent": "Asia",
+  "capital": {
+   "name": "Macao",
+   "lat": 22.219905666666666,
+   "lon": 113.50706400000001
+  },
+  "centroid": {
+   "lat": 22.219905666666666,
+   "lon": 113.50706400000001
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "HKG": {
+  "id": "HKG",
+  "cca2": "HK",
+  "name": "Hong Kong",
+  "continent": "Asia",
+  "capital": {
+   "name": "City of Victoria",
+   "lat": 22.422973666666667,
+   "lon": 114.11974299999999
+  },
+  "centroid": {
+   "lat": 22.422973666666667,
+   "lon": 114.11974299999999
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "CHL": {
+  "id": "CHL",
+  "cca2": "CL",
+  "name": "Chile",
+  "continent": "South America",
+  "capital": {
+   "name": "Santiago",
+   "lat": -33.440205,
+   "lon": -70.650504
+  },
+  "centroid": {
+   "lat": -45.33273888390091,
+   "lon": -72.55641871207429
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "TCD": {
+  "id": "TCD",
+  "cca2": "TD",
+  "name": "Chad",
+  "continent": "Africa",
+  "capital": {
+   "name": "N'Djamena",
+   "lat": 12.115042,
+   "lon": 15.047202
+  },
+  "centroid": {
+   "lat": 12.658308761194027,
+   "lon": 18.465566701492538
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "CAF": {
+  "id": "CAF",
+  "cca2": "CF",
+  "name": "Central African Rep.",
+  "continent": "Africa",
+  "capital": {
+   "name": "Bangui",
+   "lat": 4.366644,
+   "lon": 18.558288
+  },
+  "centroid": {
+   "lat": 6.526462935064935,
+   "lon": 20.60004946753247
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "CPV": {
+  "id": "CPV",
+  "cca2": "CV",
+  "name": "Cabo Verde",
+  "continent": "Africa",
+  "capital": {
+   "name": "Praia",
+   "lat": 14.916698,
+   "lon": -23.516689
+  },
+  "centroid": {
+   "lat": 16.00018193939394,
+   "lon": -23.807232424242418
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "CAN": {
+  "id": "CAN",
+  "cca2": "CA",
+  "name": "Canada",
+  "continent": "North America",
+  "capital": {
+   "name": "Ottawa",
+   "lat": 45.418643,
+   "lon": -75.701961
+  },
+  "centroid": {
+   "lat": 65.7251844582296,
+   "lon": -89.63760204488808
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "CMR": {
+  "id": "CMR",
+  "cca2": "CM",
+  "name": "Cameroon",
+  "continent": "Africa",
+  "capital": {
+   "name": "Yaoundé",
+   "lat": 3.868647,
+   "lon": 11.514705
+  },
+  "centroid": {
+   "lat": 6.446780099999998,
+   "lon": 12.6644499
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "KHM": {
+  "id": "KHM",
+  "cca2": "KH",
+  "name": "Cambodia",
+  "continent": "Asia",
+  "capital": {
+   "name": "Phnom Penh",
+   "lat": 11.551976,
+   "lon": 104.914689
+  },
+  "centroid": {
+   "lat": 12.543952524590166,
+   "lon": 105.23975888524593
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "MMR": {
+  "id": "MMR",
+  "cca2": "MM",
+  "name": "Myanmar",
+  "continent": "Asia",
+  "capital": {
+   "name": "Naypyidaw",
+   "lat": 16.7853,
+   "lon": 96.164732
+  },
+  "centroid": {
+   "lat": 18.880566403669736,
+   "lon": 96.77539064678902
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "BDI": {
+  "id": "BDI",
+  "cca2": "BI",
+  "name": "Burundi",
+  "continent": "Africa",
+  "capital": {
+   "name": "Gitega",
+   "lat": -3.376087,
+   "lon": 29.360006
+  },
+  "centroid": {
+   "lat": -3.0952015000000004,
+   "lon": 29.95266331818182
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "BFA": {
+  "id": "BFA",
+  "cca2": "BF",
+  "name": "Burkina Faso",
+  "continent": "Africa",
+  "capital": {
+   "name": "Ouagadougou",
+   "lat": 12.372262,
+   "lon": -1.52667
+  },
+  "centroid": {
+   "lat": 12.22466415151515,
+   "lon": -1.644341893939393
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "BGR": {
+  "id": "BGR",
+  "cca2": "BG",
+  "name": "Bulgaria",
+  "continent": "Europe",
+  "capital": {
+   "name": "Sofia",
+   "lat": 42.685295,
+   "lon": 23.314708
+  },
+  "centroid": {
+   "lat": 42.85608515555555,
+   "lon": 25.27470264444444
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "BRN": {
+  "id": "BRN",
+  "cca2": "BN",
+  "name": "Brunei",
+  "continent": "Asia",
+  "capital": {
+   "name": "Bandar Seri Begawan",
+   "lat": 4.883331,
+   "lon": 114.933284
+  },
+  "centroid": {
+   "lat": 4.588258400000001,
+   "lon": 114.81208326666665
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "BRA": {
+  "id": "BRA",
+  "cca2": "BR",
+  "name": "Brazil",
+  "continent": "South America",
+  "capital": {
+   "name": "Brasília",
+   "lat": -15.781394,
+   "lon": -47.917998
+  },
+  "centroid": {
+   "lat": -10.087230994382026,
+   "lon": -53.204509917603026
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "BWA": {
+  "id": "BWA",
+  "cca2": "BW",
+  "name": "Botswana",
+  "continent": "Africa",
+  "capital": {
+   "name": "Gaborone",
+   "lat": -24.646314,
+   "lon": 25.911948
+  },
+  "centroid": {
+   "lat": -22.56779625531915,
+   "lon": 24.824403702127658
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "BIH": {
+  "id": "BIH",
+  "cca2": "BA",
+  "name": "Bosnia and Herz.",
+  "continent": "Europe",
+  "capital": {
+   "name": "Sarajevo",
+   "lat": 43.850022,
+   "lon": 18.383002
+  },
+  "centroid": {
+   "lat": 44.0935854,
+   "lon": 17.860493857142856
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "BOL": {
+  "id": "BOL",
+  "cca2": "BO",
+  "name": "Bolivia",
+  "continent": "South America",
+  "capital": {
+   "name": "Sucre",
+   "lat": -16.496028,
+   "lon": -68.151931
+  },
+  "centroid": {
+   "lat": -16.681426009433963,
+   "lon": -64.84821314150946
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "BTN": {
+  "id": "BTN",
+  "cca2": "BT",
+  "name": "Bhutan",
+  "continent": "Asia",
+  "capital": {
+   "name": "Thimphu",
+   "lat": 27.472986,
+   "lon": 89.639014
+  },
+  "centroid": {
+   "lat": 27.4697599090909,
+   "lon": 90.7049893181818
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "BEN": {
+  "id": "BEN",
+  "cca2": "BJ",
+  "name": "Benin",
+  "continent": "Africa",
+  "capital": {
+   "name": "Porto-Novo",
+   "lat": 6.36298,
+   "lon": 2.404355
+  },
+  "centroid": {
+   "lat": 9.60418373684211,
+   "lon": 2.4098735000000002
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "BLZ": {
+  "id": "BLZ",
+  "cca2": "BZ",
+  "name": "Belize",
+  "continent": "North America",
+  "capital": {
+   "name": "Belmopan",
+   "lat": 17.252033,
+   "lon": -88.767073
+  },
+  "centroid": {
+   "lat": 17.5180541875,
+   "lon": -88.59266675
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "BEL": {
+  "id": "BEL",
+  "cca2": "BE",
+  "name": "Belgium",
+  "continent": "Europe",
+  "capital": {
+   "name": "Brussels",
+   "lat": 50.835263,
+   "lon": 4.331371
+  },
+  "centroid": {
+   "lat": 50.60498638095238,
+   "lon": 4.737483690476191
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "BLR": {
+  "id": "BLR",
+  "cca2": "BY",
+  "name": "Belarus",
+  "continent": "Europe",
+  "capital": {
+   "name": "Minsk",
+   "lat": 53.901923,
+   "lon": 27.564681
+  },
+  "centroid": {
+   "lat": 53.6126769875,
+   "lon": 28.007645287499987
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "BRB": {
+  "id": "BRB",
+  "cca2": "BB",
+  "name": "Barbados",
+  "continent": "North America",
+  "capital": {
+   "name": "Bridgetown",
+   "lat": 13.102003,
+   "lon": -59.616527
+  },
+  "centroid": {
+   "lat": 13.1599975,
+   "lon": -59.544739
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "BGD": {
+  "id": "BGD",
+  "cca2": "BD",
+  "name": "Bangladesh",
+  "continent": "Asia",
+  "capital": {
+   "name": "Dhaka",
+   "lat": 23.725006,
+   "lon": 90.406634
+  },
+  "centroid": {
+   "lat": 23.48729697222222,
+   "lon": 90.41632121296294
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "BHR": {
+  "id": "BHR",
+  "cca2": "BH",
+  "name": "Bahrain",
+  "continent": "Asia",
+  "capital": {
+   "name": "Manama",
+   "lat": 26.236136,
+   "lon": 50.583052
+  },
+  "centroid": {
+   "lat": 26.025019399999998,
+   "lon": 50.5407814
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "BHS": {
+  "id": "BHS",
+  "cca2": "BS",
+  "name": "Bahamas",
+  "continent": "North America",
+  "capital": {
+   "name": "Nassau",
+   "lat": 25.08339,
+   "lon": -77.350044
+  },
+  "centroid": {
+   "lat": 24.12230656321839,
+   "lon": -76.09276498850573
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "AZE": {
+  "id": "AZE",
+  "cca2": "AZ",
+  "name": "Azerbaijan",
+  "continent": "Asia",
+  "capital": {
+   "name": "Baku",
+   "lat": 40.397218,
+   "lon": 49.860271
+  },
+  "centroid": {
+   "lat": 40.23679959701492,
+   "lon": 46.919194641791044
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "AUT": {
+  "id": "AUT",
+  "cca2": "AT",
+  "name": "Austria",
+  "continent": "Europe",
+  "capital": {
+   "name": "Vienna",
+   "lat": 48.201961,
+   "lon": 16.364693
+  },
+  "centroid": {
+   "lat": 47.69356544067796,
+   "lon": 13.400087796610167
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "AUS": {
+  "id": "AUS",
+  "cca2": "AU",
+  "name": "Australia",
+  "continent": "Oceania",
+  "capital": {
+   "name": "Canberra",
+   "lat": -35.283029,
+   "lon": 149.129026
+  },
+  "centroid": {
+   "lat": -25.22944087074834,
+   "lon": 136.40146089285716
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "IOA": {
+  "id": "IOA",
+  "cca2": "",
+  "name": "Indian Ocean Ter.",
+  "continent": "Asia",
+  "capital": {
+   "name": "Indian Ocean Ter.",
+   "lat": -10.50007325,
+   "lon": 105.67795425
+  },
+  "centroid": {
+   "lat": -10.50007325,
+   "lon": 105.67795425
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "HMD": {
+  "id": "HMD",
+  "cca2": "HM",
+  "name": "Heard I. and McDonald Is.",
+  "continent": "Seven seas (open ocean)",
+  "capital": {
+   "name": "Heard I. and McDonald Is.",
+   "lat": -53.10246575000001,
+   "lon": 73.565381
+  },
+  "centroid": {
+   "lat": -53.10246575000001,
+   "lon": 73.565381
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "NFK": {
+  "id": "NFK",
+  "cca2": "NF",
+  "name": "Norfolk Island",
+  "continent": "Oceania",
+  "capital": {
+   "name": "Kingston",
+   "lat": -29.052018333333336,
+   "lon": 167.96354166666666
+  },
+  "centroid": {
+   "lat": -29.052018333333336,
+   "lon": 167.96354166666666
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "ATC": {
+  "id": "ATC",
+  "cca2": "",
+  "name": "Ashmore and Cartier Is.",
+  "continent": "Oceania",
+  "capital": {
+   "name": "Ashmore and Cartier Is.",
+   "lat": -12.429932,
+   "lon": 123.58383800000001
+  },
+  "centroid": {
+   "lat": -12.429932,
+   "lon": 123.58383800000001
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "ARM": {
+  "id": "ARM",
+  "cca2": "AM",
+  "name": "Armenia",
+  "continent": "Asia",
+  "capital": {
+   "name": "Yerevan",
+   "lat": 40.183097,
+   "lon": 44.511606
+  },
+  "centroid": {
+   "lat": 40.20305237837838,
+   "lon": 45.182867945945944
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "ARG": {
+  "id": "ARG",
+  "cca2": "AR",
+  "name": "Argentina",
+  "continent": "South America",
+  "capital": {
+   "name": "Buenos Aires",
+   "lat": -34.610715,
+   "lon": -58.432513
+  },
+  "centroid": {
+   "lat": -39.0836517922078,
+   "lon": -65.79259622077923
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "ATG": {
+  "id": "ATG",
+  "cca2": "AG",
+  "name": "Antigua and Barb.",
+  "continent": "North America",
+  "capital": {
+   "name": "Saint John's",
+   "lat": 17.118036,
+   "lon": -61.850034
+  },
+  "centroid": {
+   "lat": 17.328065444444444,
+   "lon": -61.79698333333332
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "AGO": {
+  "id": "AGO",
+  "cca2": "AO",
+  "name": "Angola",
+  "continent": "Africa",
+  "capital": {
+   "name": "Luanda",
+   "lat": -8.83634,
+   "lon": 13.232481
+  },
+  "centroid": {
+   "lat": -10.657648678160921,
+   "lon": 17.332489264367815
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "AND": {
+  "id": "AND",
+  "cca2": "AD",
+  "name": "Andorra",
+  "continent": "Europe",
+  "capital": {
+   "name": "Andorra la Vella",
+   "lat": 42.510753,
+   "lon": 1.526594
+  },
+  "centroid": {
+   "lat": 42.545722600000005,
+   "lon": 1.5695508
+  },
+  "tier": "hard",
+  "playable": true
+ },
+ "DZA": {
+  "id": "DZA",
+  "cca2": "DZ",
+  "name": "Algeria",
+  "continent": "Africa",
+  "capital": {
+   "name": "Algiers",
+   "lat": 36.765011,
+   "lon": 3.048607
+  },
+  "centroid": {
+   "lat": 30.28479313829789,
+   "lon": 2.764443744680849
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "ALB": {
+  "id": "ALB",
+  "cca2": "AL",
+  "name": "Albania",
+  "continent": "Europe",
+  "capital": {
+   "name": "Tirana",
+   "lat": 41.327541,
+   "lon": 19.818883
+  },
+  "centroid": {
+   "lat": 41.06334193103447,
+   "lon": 20.03729124137931
+  },
+  "tier": "normal",
+  "playable": true
+ },
+ "AFG": {
+  "id": "AFG",
+  "cca2": "AF",
+  "name": "Afghanistan",
+  "continent": "Asia",
+  "capital": {
+   "name": "Kabul",
+   "lat": 34.518636,
+   "lon": 69.181314
+  },
+  "centroid": {
+   "lat": 34.91619095454544,
+   "lon": 67.66056998181823
+  },
+  "tier": "easy",
+  "playable": true
+ },
+ "KAS": {
+  "id": "KAS",
+  "cca2": "",
+  "name": "Siachen Glacier",
+  "continent": "Asia",
+  "capital": {
+   "name": "Siachen Glacier",
+   "lat": 35.43577875,
+   "lon": 77.2653565
+  },
+  "centroid": {
+   "lat": 35.43577875,
+   "lon": 77.2653565
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "ATA": {
+  "id": "ATA",
+  "cca2": "AQ",
+  "name": "Antarctica",
+  "continent": "Antarctica",
+  "capital": {
+   "name": "Antarctica",
+   "lat": -72.51649661170512,
+   "lon": -21.971168944850874
+  },
+  "centroid": {
+   "lat": -72.51649661170512,
+   "lon": -21.971168944850874
+  },
+  "tier": "easy",
+  "playable": false
+ },
+ "SXM": {
+  "id": "SXM",
+  "cca2": "SX",
+  "name": "Sint Maarten",
+  "continent": "North America",
+  "capital": {
+   "name": "Philipsburg",
+   "lat": 18.044514666666668,
+   "lon": -63.052799666666665
+  },
+  "centroid": {
+   "lat": 18.044514666666668,
+   "lon": -63.052799666666665
+  },
+  "tier": "hard",
+  "playable": false
+ },
+ "TUV": {
+  "id": "TUV",
+  "cca2": "TV",
+  "name": "Tuvalu",
+  "continent": "Oceania",
+  "capital": {
+   "name": "Funafuti",
+   "lat": -8.516652,
+   "lon": 179.216647
+  },
+  "centroid": {
+   "lat": -8.508431333333334,
+   "lon": 179.20413399999998
+  },
+  "tier": "hard",
+  "playable": true
+ }
+}
